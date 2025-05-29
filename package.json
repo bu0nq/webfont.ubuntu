@@ -1,12 +1,8 @@
 {
   "name": "@bu0nq/webfont.ubuntu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package for integrating WebFont Ubuntu",
   "main": "ubuntu.css",
-  "files": [
-    "**/*.{woff2, woff}",
-    "**/*.{css, less, scss}"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
